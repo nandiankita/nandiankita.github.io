@@ -1,7 +1,8 @@
 ---
-layout: archive-years
-title: Highlights
-permalink: /years/
+layout: archive-taxonomies
+type: categories
+title: Categories
+permalink: /categories/
 ---
 1. Fulbright-Nehru Doctoral Research Fellow for 2022-2023.
 
