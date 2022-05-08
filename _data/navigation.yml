@@ -1,8 +1,8 @@
 - title: About
   url: /about/
+#- title: Highlights
+#  url: /years/
 - title: Highlights
-  url: /years/
-- title: Categories
   url: /categories/
 - title: Resume
   url: /tags/
