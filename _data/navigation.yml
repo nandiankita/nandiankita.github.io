@@ -1,14 +1,14 @@
 - title: About
   url: /about/
-- title: Years
+- title: Highlights
   url: /years/
 - title: Categories
   url: /categories/
-- title: Tags
+- title: Resume
   url: /tags/
-- title: More
-  sublinks:
-    - title: FAQ
-      url: /faq/
-    - title: Docs
-      url: /docs/
+#- title: More
+  #sublinks:
+    #- title: FAQ
+     # url: /faq/
+    #- title: Docs
+    #  url: /docs/
