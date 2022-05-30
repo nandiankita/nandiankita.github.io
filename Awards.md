@@ -1,7 +1,7 @@
 ---
 layout: archive-taxonomies
 type: categories
-title: Highlights
+title: Awards
 permalink: /categories/
 ---
 1. Fulbright-Nehru Doctoral Research Fellow for 2022-2023.
