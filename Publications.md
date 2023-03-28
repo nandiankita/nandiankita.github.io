@@ -1,7 +1,7 @@
 ---
 layout: archive-taxonomies
 title: Publications
-permalink: /years/
+permalink: /publications/
 ---
 
 P. Kumar, A. Nandi, S. Chakrabartty and C. S. Thakur, "[Process, Bias, and Temperature Scalable CMOS Analog Computing Circuits for Machine Learning][p4]", in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 70, no. 1, pp. 128-141, Jan. 2023, doi: 10.1109/TCSI.2022.3216287.
