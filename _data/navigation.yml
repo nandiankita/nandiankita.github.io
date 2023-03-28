@@ -1,11 +1,11 @@
 - title: About
   url: /about/
 - title: Publications
-  url: /years/
+  url: /publications/
 - title: Awards
-  url: /categories/
+  url: /awards/
 - title: Resume
-  url: /tags/
+  url: /resume/
 #- title: More
   #sublinks:
     #- title: FAQ
