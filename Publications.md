@@ -4,9 +4,9 @@ title: Publications
 permalink: /years/
 ---
 
-Pratik Kumar, Ankita Nandi, Shantanu Chakrabartty, and Chetan Singh Thakur, "[Theory and Implementation of Process and Temperature Scalable shape-based cmos analog circuits][p4]", arXiv preprint arXiv:2205.05664 (2022).
+P. Kumar, A. Nandi, S. Chakrabartty and C. S. Thakur, "[Process, Bias, and Temperature Scalable CMOS Analog Computing Circuits for Machine Learning][p4]", in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 70, no. 1, pp. 128-141, Jan. 2023, doi: 10.1109/TCSI.2022.3216287.
 
-Pratik Kumar, Ankita Nandi, Shantanu Chakrabartty, and Chetan Singh Thakur, "[CMOS Circuits for Shape-Based Analog Machine Learning][p5]", arXiv preprint arXiv:2202.05022 (2022).
+P. Kumar, A. Nandi, S. Chakrabartty and C. S. Thakur, "[Bias-Scalable Near-Memory CMOS Analog Processor for Machine Learning][p5]", in IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 13, no. 1, pp. 312-322, March 2023, doi: 10.1109/JETCAS.2023.3234570.
 
  A. Nandi, C. K. Jha and J. Mekie, "[Tunable Inexact Subtracters for Division in Image Processing Applications][p1]," 2020 IEEE 63rd International Midwest Symposium on Circuits and Systems (MWSCAS), 2020, pp. 1100-1103.
 
@@ -17,5 +17,5 @@ Pratik Kumar, Ankita Nandi, Shantanu Chakrabartty, and Chetan Singh Thakur, "[CM
  [p1]:https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9184460
  [p2]:https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953113
  [p3]:https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8965205
- [p4]:https://arxiv.org/pdf/2205.05664.pdf
- [p5]:https://arxiv.org/pdf/2202.05022.pdf
+ [p4]:https://ieeexplore.ieee.org/document/9934009
+ [p5]:https://ieeexplore.ieee.org/document/10007808
