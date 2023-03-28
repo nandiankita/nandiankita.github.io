@@ -2,7 +2,7 @@
 layout: archive-taxonomies
 type: tags
 title: Resume
-permalink: /tags/
+permalink: /resume/
 ---
 My resume can be found on [this link][resume].
 
