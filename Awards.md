@@ -7,7 +7,7 @@ permalink: /awards/
 
 Best Student Research Forum in IEEE EDTM 2024.
 
-Chip Design Contest for IEEE VLSId 2024.
+Chip Design Contest for IEEE VLSID 2024.
 
 Fulbright-Nehru Doctoral Research Fellow for 2022-2023.
 
